@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hello and Welcome!
 
-<!--
-**Rub3nMaur0/Rub3nMaur0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+My name is **Ruben Mauro**, and I'm a 27-year-old software developer 🖥️ born and raised South Africa 🇿, currently living in Portugal 🇵🇹.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have always been passionate about technology and the power it has to transform the world. Through my work, I strive to make a positive impact on society by creating innovative solutions that solve real-world problems.
+
+With a strong background in programming languages like **Assembly** 🛠️, **C++** 💻, **Python** 🐍, **Java** ☕ and **Kotlin** 📱, I also like to develop web applications, APIs, databases, and more.
+
+In addition to my software development skills, I also enjoy fixing and sometimes creating projects involving electronics 🤖.
+
+In my free time, I like to produce and edit music 🎵 with DAW software 🎧, play piano 🎹 and flute 🎶, learn new instruments 🎸, study astronomy and physics 🚀, go to the gym 🏋️, practice boxing 🥊, and read books about self-knowledge/psychology 🧠 and philosophy 📚.
+
+I believe that learning is a lifelong journey 🚶‍♂️, and I am always looking for opportunities to expand my knowledge and skills.
+
+## 🔍 Get in Touch
+
+I look forward to connecting with fellow developers 👥, sharing ideas 💡, and collaborating on exciting projects. If you're interested in working together or have any questions, feel free to [reach out to me](https://github.com/Rub3nMaur0).
+
+Thank you for visiting my profile page! 👀
