@@ -10,7 +10,7 @@ With a strong background in programming languages like **Assembly** 🛠️, **C
 
 In addition to my software development skills, I also enjoy fixing and sometimes creating projects involving electronics 🤖.
 
-In my free time, I like to produce and edit music 🎵 with DAW software 🎧, play piano 🎹 and flute 🎶, learn new instruments 🎸, study astronomy and physics 🚀, go to the gym 🏋️, practice boxing 🥊, read books about self-knowledge/psychology 🧠 and philosophy 📚.
+In my free time, I like to produce and edit music 🎵 with DAW software 🎧, play piano 🎹, flute 🎶, learn new instruments 🎸, study astronomy and physics 🚀, go to the gym 🏋️, practice boxing 🥊, read books about self-knowledge/psychology 🧠 and philosophy 📚.
 
 I believe that learning is a lifelong journey 🚶‍♂️, and I am always looking for opportunities to expand my knowledge and skills.
 
