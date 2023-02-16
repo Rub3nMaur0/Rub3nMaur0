@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-My name is **Ruben Mauro**, and I'm a 27-year-old software developer 🖥️ born and raised South Africa 🇿, currently living in Portugal 🇵🇹.  
+My name is **Ruben Mauro**, and I'm a 27-year-old software developer 🖥️ born and raised South Africa 🇿🇦, currently living in Portugal 🇵🇹.  
 
 I have always been passionate about technology and the power it has to transform the world. Through my work, I strive to make a positive impact on society by creating innovative solutions that solve real-world problems.
 
@@ -10,7 +10,7 @@ With a strong background in programming languages like **Assembly** 🛠️, **C
 
 In addition to my software development skills, I also enjoy fixing and sometimes creating projects involving electronics 🤖.
 
-In my free time, I like to produce and edit music 🎵 with DAW software 🎧, play piano 🎹 and flute 🎶, learn new instruments 🎸, study astronomy and physics 🚀, go to the gym 🏋️, practice boxing 🥊, and read books about self-knowledge/psychology 🧠 and philosophy 📚.
+In my free time, I like to produce and edit music 🎵 with DAW software 🎧, play piano 🎹 and flute 🎶, learn new instruments 🎸, study astronomy and physics 🚀, go to the gym 🏋️, practice boxing 🥊, read books about self-knowledge/psychology 🧠 and philosophy 📚.
 
 I believe that learning is a lifelong journey 🚶‍♂️, and I am always looking for opportunities to expand my knowledge and skills.
 
