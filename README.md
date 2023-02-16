@@ -16,6 +16,9 @@ I believe that learning is a lifelong journey 🚶‍♂️, and I am always loo
 
 ## 🔍 Get in Touch
 
+Technology has come a long way since the invention of the wheel. From the printing press to the smartphone, each new innovation has changed the way we work, communicate, and live. With the creation of the internet, technology has brought us closer together, allowing us to connect with people and information from around the globe.
+
 I look forward to connecting with fellow developers 👥, sharing ideas 💡, and collaborating on exciting projects. If you're interested in working together or have any questions, feel free to [reach out to me](https://github.com/Rub3nMaur0).
+
 
 Thank you for visiting my profile page! 👀
